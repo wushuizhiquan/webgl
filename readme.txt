@@ -1,4 +1,4 @@
-add a new branch
+add a new branch dev
 <<<<<<< HEAD
 add another branch which named feature1!
 =======
